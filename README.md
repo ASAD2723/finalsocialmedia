@@ -1,6 +1,6 @@
 # finalsocialmedia
 
-#1git clone 
+#1 git clone https://github.com/ASAD2723/finalsocialmedia.git 
 
 #2 cd desktop
 
